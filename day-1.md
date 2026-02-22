@@ -24,3 +24,8 @@ This is actually pretty simple and powerful.
 - [x] Create markdown file
 - [x] Add headings
 - [ ] Practice more formatting
+
+## Morning Planning
+- [ ] Check out the [GitHub blog](https://github.blog/)
+- [ ] Learn about [GitHub Pages](https://skills.github.com/#first-day-on-github)
+- [ ] Convert my first blog post into an actual webpage
