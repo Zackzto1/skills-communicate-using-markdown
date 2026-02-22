@@ -31,6 +31,7 @@ This is actually pretty simple and powerful.
 - [ ] Convert my first blog post into an actual webpage
 
 ## Review
+![Mona the Octocat](https://octodex.github.com/images/original.png)
 Convert an image or video from dark mode to light mode using ffmpeg:
 
 ```bash
@@ -57,3 +58,4 @@ Commit directly to `start-blog`.
 
 Commit message:
 ---
+
