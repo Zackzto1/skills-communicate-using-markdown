@@ -29,3 +29,31 @@ This is actually pretty simple and powerful.
 - [ ] Check out the [GitHub blog](https://github.blog/)
 - [ ] Learn about [GitHub Pages](https://skills.github.com/#first-day-on-github)
 - [ ] Convert my first blog post into an actual webpage
+
+## Review
+Convert an image or video from dark mode to light mode using ffmpeg:
+
+```bash
+ffmpeg -i input.mp4 -vf "negate,hue=h=180,eq=contrast=1.2:saturation=1.5" output.mp4
+Important:
+- Use three backticks ```  
+- Write `bash` right after the first three backticks  
+- Make sure it closes with three backticks again  
+
+That creates a syntax-highlighted code block.
+
+---
+
+### ✅ 5 — Preview Tab
+Tap **Preview** to confirm it looks like a grey code box.
+
+If it does — perfect.
+
+---
+
+### ✅ 6 — Commit
+
+Commit directly to `start-blog`.
+
+Commit message:
+---
